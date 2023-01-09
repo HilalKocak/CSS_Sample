@@ -2,4 +2,5 @@
 
 You can reach the deployed site with link below:
 
+    https://cssbolumsonucalismasi.netlify.app/
 
