@@ -1,6 +1,7 @@
 **This project presents fundamental usage of CSS.**
 
-You can reach the deployed site with link below:
+![Sample site](img/css-sample.png)
 
-    https://cssbolumsonucalismasi.netlify.app/
+
+[You can reach the deployed site here](https://csssamplework.netlify.app/)
 
